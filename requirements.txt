@@ -1,4 +1,3 @@
 pytelegrambotapi
-time
 praw
 gtts
